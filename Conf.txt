@@ -1,4 +1,0 @@
-Colunas amarelas: Conversão de data para padrão brasileiro.
-Colunas laranjas: Inclusão de colunas
-
-Colunas vermelhas: Criação de colunas por combustível para que os totais sejam apresentados por combustível
